@@ -1,2 +1,3 @@
 # Technocrat
-A skillful person tryna do something different
+New to web development
+
